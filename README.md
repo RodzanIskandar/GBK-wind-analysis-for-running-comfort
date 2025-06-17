@@ -1,1 +1,1 @@
-# GBK-wind-estimator-for-running-comfort
+# GBK-wind-analysis-for-running-comfort
